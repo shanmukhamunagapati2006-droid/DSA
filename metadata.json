@@ -1,0 +1,6 @@
+{
+  "name": "GramYatra",
+  "description": "Smart Rural Bus System - Know • Track • Travel",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
